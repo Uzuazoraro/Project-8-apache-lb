@@ -1,0 +1,4 @@
+# LOAD BALANCER SOLUTION WITH APACHE
+
+We'll be configuring Apache as a load balancer. We'll start by creating a new EC2 Instance in AWS. We'll call it "Project-8-apache-lb."
+
